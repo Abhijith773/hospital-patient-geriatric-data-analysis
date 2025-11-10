@@ -27,5 +27,3 @@ The dataset includes patient demographics, conditions, treatments, costs, and ou
 - High treatment cost and longer stays in elderly.
 - Indicates importance of specialized geriatric medicine.
 
-## Author
-[Your Name] - [Your GitHub or contact info]
